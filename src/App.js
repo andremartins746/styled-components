@@ -1,8 +1,11 @@
-import {Button} from './components/button.style'
+import {Button, Button02} from './components/button.style'
 
 function App() {
   return (
-    <div className="App"><Button>hello word</Button></div>
+    <div className="App">
+      <Button color="silver">hello word</Button>
+      <Button02 color="silver">hello word</Button02>
+    </div>
   );
 }
 

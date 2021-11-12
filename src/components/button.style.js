@@ -18,3 +18,4 @@ export const Button02 = styled.button `
     font-weight: bold;
     background-color: ${props => props.color === 'silver' ? 'silver': 'green'};
 `
+

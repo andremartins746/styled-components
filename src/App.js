@@ -1,8 +1,8 @@
-
+import {Button} from './components/button.style'
 
 function App() {
   return (
-    <div className="App">hello word</div>
+    <div className="App"><Button>hello word</Button></div>
   );
 }
 

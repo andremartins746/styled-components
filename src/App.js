@@ -12,6 +12,7 @@ function App() {
           <Content>
               <Button color="silver">hello word</Button>
               <Button02 color="silver">hello word</Button02>
+
           </Content>
       </Container>
 

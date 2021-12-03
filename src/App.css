@@ -1,0 +1,37 @@
+.App {
+    /* background: linear-gradient(rgb(240, 217, 15), rgb(247, 91, 53)); */
+    background: linear-gradient(rgb(58, 20, 148), rgb(19, 16, 14))  ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 24px;
+    color:rgb(58, 20, 148);
+    text-align: center;
+}
+form input {
+    border-style: none;
+    font-size: 19px;
+    font-weight: 700;
+    padding: 9px;
+    border-radius: 6px;
+    background-color: rgb(58, 20, 148);
+    color: white;
+    margin-top: 2%;
+}
+
+form label {
+    font-size: 19px;
+    font-weight: bold;
+    color:rgb(58, 20, 148);
+}
+
+form button {
+    background-color: rgb(58, 20, 148);
+    color: white;
+    padding: 19px;
+    margin-top: 4%;
+    border-style: none;
+    border-radius: 6px;
+    font-weight: bold;
+    
+}

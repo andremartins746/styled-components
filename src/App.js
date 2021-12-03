@@ -18,7 +18,7 @@ function App() {
               <Button02 color="silver">hello word</Button02> */}
               {/* <Button03>iuhgiu</Button03>*/}
 
-              <form action="http://localhost:3031" method="post"   className="form">
+              <form action="http://localhost:3040/form" method="POST"   className="form">
                 <h1>FORM</h1>
                 <label>Nome:</label> <input 
                   className="input--nome"

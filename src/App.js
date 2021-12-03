@@ -1,6 +1,8 @@
 // import {Button, Button02, Button03} from './components/button.style'
 import { Container } from "./components/conteiner.style"
 import { Content } from "./components/content.style"
+import React from 'react'
+
 
 import "../src/App.css"
 
@@ -9,7 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      
+       
       <Container active={active}>
           <Content>
               {/* <Button color="silver">hello word</Button>

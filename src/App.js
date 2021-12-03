@@ -14,6 +14,7 @@ function App() {
           <Content>
               {/* <Button color="silver">hello word</Button>
               <Button02 color="silver">hello word</Button02> */}
+              {/* <Button03>iuhgiu</Button03>*/}
               <form action="http://localhost:3031" method="post"   className="form">
                 <h1>FORM</h1>
                 <label>Nome:</label> <input 
@@ -34,8 +35,6 @@ function App() {
                   <br/>
 
                   <button type="submit">Enviar</button>
-                   {/* <Button03>iuhgiu</Button03>
-                  <Button02>yugyu</Button02> */}
               </form>
           </Content>
       </Container>
